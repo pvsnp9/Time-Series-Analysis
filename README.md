@@ -1,5 +1,5 @@
 # Time-Series-Analysis
-Time Series Analysis in Python - Modeling: AR to SARIMAX, Vector Models, GARCH, Auto ARIMA, Forecasting
+Time Series Analysis - Modeling: AR to SARIMAX, Vector Models, GARCH, Auto ARIMA, Forecasting
 
 
 ## How
